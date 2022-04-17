@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T06:43:31.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" version="17.4.5" etag="zVixygRek67OdfDRMypO" type="github"><diagram id="WeBRR7yLlE1aA-6SEcpQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-17T15:18:27.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="Z-gJYdO8Vmr_yDP-xMon" version="17.4.5" type="github">
+  <diagram id="WeBRR7yLlE1aA-6SEcpQ" name="Page-1">
+    <mxGraphModel dx="1220" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Munqn14vnIr6mk1HhC3U-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;" vertex="1" parent="1">
+          <mxGeometry x="10" y="110" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Munqn14vnIr6mk1HhC3U-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="20" width="460" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="Munqn14vnIr6mk1HhC3U-2" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.iot_core;" vertex="1" parent="1">
+          <mxGeometry x="210" y="130" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="Munqn14vnIr6mk1HhC3U-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="170" as="sourcePoint" />
+            <mxPoint x="210" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Munqn14vnIr6mk1HhC3U-5" value="Cloud" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="203" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Munqn14vnIr6mk1HhC3U-6" value="AWS IoT Greengrass &lt;br&gt;Core" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="144" y="240" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Munqn14vnIr6mk1HhC3U-7" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.camera;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="59.25" width="79.5" height="79.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Munqn14vnIr6mk1HhC3U-8" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.door_lock;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="150.25" width="79.5" height="79.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Munqn14vnIr6mk1HhC3U-9" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.car;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="240" width="79.5" height="79.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Munqn14vnIr6mk1HhC3U-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="288" y="170" as="sourcePoint" />
+            <mxPoint x="380" y="181" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Munqn14vnIr6mk1HhC3U-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="288" y="170" as="sourcePoint" />
+            <mxPoint x="380" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Munqn14vnIr6mk1HhC3U-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="288" y="170" as="sourcePoint" />
+            <mxPoint x="380" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Munqn14vnIr6mk1HhC3U-16" value="Device 1&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="470" y="84" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Munqn14vnIr6mk1HhC3U-17" value="Device 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="470" y="175" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Munqn14vnIr6mk1HhC3U-18" value="Device 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="470" y="264.75" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Munqn14vnIr6mk1HhC3U-19" value="Any device using &lt;br style=&quot;font-size: 20px;&quot;&gt;Amazon FreeRTOS or&amp;nbsp; &lt;br style=&quot;font-size: 20px;&quot;&gt;AWS device IoT SDK &lt;br style=&quot;font-size: 20px;&quot;&gt;can interact with &lt;br style=&quot;font-size: 20px;&quot;&gt;AWS Greengrass Core&lt;br style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;via local network" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="250" y="350" width="230" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
